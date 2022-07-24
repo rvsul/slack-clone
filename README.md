@@ -1,4 +1,4 @@
-# Pictures
+# Photos
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/79022070/179729327-aedff356-4878-4f21-b9b2-f0030768066a.png)
 
